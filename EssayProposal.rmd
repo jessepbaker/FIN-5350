@@ -1,0 +1,23 @@
+---
+title: "FIN5350 Essay Proposal"
+author: "Jesse Baker"
+date: "October 20, 2018"
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
+
+
+\newpage
+
+
+## Section 1
+
+* Buchanan's main point is that economists, in general, overemphasize the weaker, and less practical theories of economics. 
+
+* When Buchanan speaks of *catallactics*, he is referring to the idea of trying to understand markets better to determine why prices are the way they are. He points out that too many economists focus on the theory of resource allocation, which tries to explain  how prices should be.
+
+* Buchanan believes that economists focus too much on the problem of scarcity and resource allocation. He is worried that sollutions to problems are too narrowly defined as maximization problems, in which a pre-determined utility function is used. However, when using a fully defined utility function, choices are not made, and become purely mechanical.
+
+* Buchanan wants economists to use the same foundational theories of economics, but by using a different thought process. He believes it is important to focus on *exchange* rather than on *choice*.
