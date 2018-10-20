@@ -1,23 +1,45 @@
 ---
-title: "FIN5350 Essay Proposal"
-author: "Jesse Baker"
-date: "October 20, 2018"
 output:
-  pdf_document: default
-  word_document: default
-  html_document: default
+  html_document:
+    df_print: paged
+  pdf_document:
+    citation_package: natbib
+    keep_tex: true
+    fig_caption: true
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+header-includes:
+   - \setlength\parindent{24pt}\setlength{\parskip}{0.0pt plus 1.0pt}
+title: "FIN5350 Essay Proposal"
+author:
+- affiliation: Utah State University
+  name: Jesse Baker
+abstract: "In this essay I address methodoligies used in economics that oversimplify the answers to questions concerning complex human behavior. I propose that economists should turn their attention more towards studying the behavior of markets, and using case studies to answer the underlying questions of human behavior."
+date: "`r format(Sys.time(), '%B %d, %Y')`" 
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+spacing: double
+bibliogrophy: ./master.bib
+biblio-style: apsr
 ---
-
 
 \newpage
 
+#### Introduction
 
-## Section 1
+To non-economists, the answer to the question "what do economists do?" is a bit ambiguous. British economist Lionel Robbins famously coined the textbook definition as "Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses" @Robbins1935. Since Robbins addressed the problem of scarcity so eloquently, economists have devoted the vast majority of their work to solving the riddle of how humanity deals with scarcity @Buchanon1979. I do not contest that scarcity should be among the foundational theories of economics. However, attempting to solve the problem of scarcity has lead many economists to oversimplify human behavior. It is this oversimplification that has deviated economists from the essence of true economics, which is markets. It is in markets, contracts, and voluntary trade where we find true human behavior through agent based models, and case studies.        
 
-* Buchanan's main point is that economists, in general, overemphasize the weaker, and less practical theories of economics. 
+#### Literature Review
 
-* When Buchanan speaks of *catallactics*, he is referring to the idea of trying to understand markets better to determine why prices are the way they are. He points out that too many economists focus on the theory of resource allocation, which tries to explain  how prices should be.
+In an effort to shift the mindset of the modern economist, Buchanan argues that while the foundational theories of economics are necessary, they have been used to over simplify human behavior, turning economists away from solving market behavioral problems to solving technical maximization problems @Buchanan1979. Boettke, Palagashvili, and Lemke dissect and explain the importance of the work of Elinor Ostrom, which used case studies involving individuals pertaining to the question rather than focusing on presumption of expertise in social arrangements @PeterLiyaJayme.  Lionel Robbins explained the foundational relevence of scarcity in the study of economics @Robbins1935. indeed, Boettke and Coyne stress the importance of methodological individualism when approaching economic question @BoettkeCoyne. 
 
-* Buchanan believes that economists focus too much on the problem of scarcity and resource allocation. He is worried that sollutions to problems are too narrowly defined as maximization problems, in which a pre-determined utility function is used. However, when using a fully defined utility function, choices are not made, and become purely mechanical.
 
-* Buchanan wants economists to use the same foundational theories of economics, but by using a different thought process. He believes it is important to focus on *exchange* rather than on *choice*.
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->

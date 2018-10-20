@@ -1,0 +1,47 @@
+---
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    citation_package: natbib
+    keep_tex: true
+    fig_caption: true
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+title: "FIN5350 Essay Proposal"
+author:
+- affiliation: Utah State University
+  name: Jesse Baker
+abstract: "In this essay I address methodoligies used in economics that oversimplify the answers to questions concerning complex human behavior. I propose that economists should turn their attention more towards studying the behavior of markets and case studies to answer the underlying questions of human behavior."
+date: "`r format(Sys.time(), '%B %d, %Y')`" 
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+spacing: double
+bibliogrophy: ./master.bib
+biblio-style: apsr
+---
+
+\newpage
+
+
+## Section 1
+
+* Buchanan's main point is that economists, in general, overemphasize the weaker, and less practical theories of economics. 
+
+* When Buchanan speaks of *catallactics*, he is referring to the idea of trying to understand markets better to determine why prices are the way they are. He points out that too many economists focus on the theory of resource allocation, which tries to explain  how prices should be.
+
+* Buchanan believes that economists focus too much on the problem of scarcity and resource allocation. He is worried that solutions to problems are too narrowly defined as maximization problems, in which a pre-determined utility function is used. However, when using a fully defined utility function, choices are not made, and become purely mechanical.
+
+* Buchanan wants economists to use the same foundational theories of economics, but by using a different thought process. He believes it is important to focus on *exchange* rather than on *choice*. Studying the *"market"*, as he puts it, is where individuals cooperate through agreements and trade.
+
+
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
