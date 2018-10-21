@@ -32,7 +32,46 @@ To non-economists, the answer to the question "what do economists do?" is a bit 
 
 #### Literature Review
 
-In an effort to shift the mindset of the modern economist, Buchanan argues that while the foundational theories of economics are necessary, they have been used to over simplify human behavior, turning economists away from solving market behavioral problems to solving technical maximization problems @Buchanan1979. Boettke, Palagashvili, and Lemke dissect and explain the importance of the work of Elinor Ostrom, which used case studies involving individuals pertaining to the question rather than focusing on presumption of expertise in social arrangements @PeterLiyaJayme.  Lionel Robbins explained the foundational relevence of scarcity in the study of economics @Robbins1935. indeed, Boettke and Coyne stress the importance of methodological individualism when approaching economic question @BoettkeCoyne. 
+In an effort to shift the mindset of the modern economist, Buchanan argues that while the foundational theories of economics are necessary, they have been used to over simplify human behavior, turning economists away from solving market behavioral problems to solving technical maximization problems @Buchanan1979. Boettke, Palagashvili, and Lemke dissect and explain the importance of the work of Elinor Ostrom, which used case studies involving individuals pertaining to the question rather than focusing on presumption of expertise in social arrangements @PeterLiyaJayme.  Lionel Robbins explained the foundational relevance of scarcity in the study of economics @Robbins1935. Indeed, Boettke and Coyne stress the importance of methodological individualism when approaching economic question @BoettkeCoyne. 
+
+#### Outline
+
+1. Introduction:
+    + What do Economists do?
+    + What is wrong with what economists do?
+    + What should they do differently
+
+2. Literature Review:
+    + @Buchanan1979:
+        + Economists focus too much on solving maximization problems that eliminate choice.
+        + Economists should focus more on markets i.e. studying prices as they are, not as they should          be.
+    + @Robbins1935:
+        + Robbins created the textbook definition of what economists do, which is solving the problem of         scarcity.
+    + @PeterLiyaJayme:
+        + Boettke et all praise the work of revolutionary economist Eleanor Otsrom for her research using         case studies.
+    + @BoettkeCoyne:
+        + Stress the role of methodological individualism in economic research.
+
+
+3. Representative agent models:
+    + What is a RAM?
+    + What are they used for?
+    + Is it a good methodology for explaining how the economy works?
+    
+4. Case Studies:
+    + What is a case study?
+    + What are they used for?
+    + Is it a good methodology for explaining how the economy works?
+    
+5. Computational game theory:
+    + What is CGT?
+    + What is it used for?
+    + Is it a good methodology for explaining how the economy works?
+    
+6. Conclusion:
+    + Even though the theory of scarcity is crucial in the role of economics, it has been used as a         crutch to produce mediocre research methods.
+    + Economists should direct their focus more towards studying actual behavior through market             interaction instead of predetermined behavior through technical models.
+    + Changing the mindset of how economists conduct research is paramount in describing human behavior.
 
 
 <!--
