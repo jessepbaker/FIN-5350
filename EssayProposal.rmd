@@ -1,28 +1,44 @@
 ---
-output:
-  pdf_document:
-    citation_package: natbib
-    keep_tex: true
-    fig_caption: true
-    latex_engine: pdflatex
-    template: ./svm-latex-ms.tex
-  html_document:
-    df_print: paged
 title: "FIN5350 Essay Proposal"
 author:
 - affiliation: Utah State University
   name: Jesse Baker
-abstract: "In this essay I address methodoligies used in economics that oversimplify the answers to questions concerning complex human behavior. I propose that economists should turn their attention more towards studying the behavior of markets, and using case studies to answer the underlying questions of human behavior."
-date: "`r format(Sys.time(), '%B %d, %Y')`" 
-geometry: margin=1in
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  pdf_document:
+    citation_package: natbib
+    fig_caption: yes
+    keep_tex: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+  word_document: default
+  html_document:
+    df_print: paged
+biblio-style: apsr
 fontfamily: mathpazo
 fontsize: 11pt
-spacing: double
+geometry: margin=1in
 bibliogrophy: ./master.bib
-biblio-style: apsr
+spacing: double
+abstract: In this essay I address methodoligies used in economics that oversimplify
+  the answers to questions concerning complex human behavior. I propose that economists
+  should turn their attention more towards studying the behavior of markets, and using
+  case studies, and methodological individualism to answer the underlying questions of       human behavior.
 ---
 
+
 \newpage
+
+
+## Section 1
+
+* Buchanan's main point is that economists, in general, overemphasize the weaker, and less practical theories of economics. 
+
+* When Buchanan speaks of *catallactics*, he is referring to the idea of trying to understand markets better to determine why prices are the way they are. He points out that too many economists focus on the theory of resource allocation, which tries to explain  how prices should be.
+
+* Buchanan believes that economists focus too much on the problem of scarcity and resource allocation. He is worried that sollutions to problems are too narrowly defined as maximization problems, in which a pre-determined utility function is used. However, when using a fully defined utility function, choices are not made, and become purely mechanical.
+
+* Buchanan wants economists to use the same foundational theories of economics, but by using a different thought process. He believes it is important to focus on *exchange* rather than on *choice*.
 
 #### Introduction
 
@@ -42,11 +58,11 @@ In an effort to shift the mindset of the modern economist, Buchanan argues that 
 2. Literature Review:
     + @buchanan:
         + Economists focus too much on solving maximization problems that eliminate choice.
-        + Economists should focus more on markets i.e. studying prices as they are, not as they should          be.
+        + Economists should focus more on markets i.e. studying prices as they are, not as they should be.
     + @robbins:
-        + Robbins created the textbook definition of what economists do, which is solving the problem of         scarcity.
+        + Robbins created the textbook definition of what economists do, which is solving the problem of  scarcity.
     + @boettke2013:
-        + Boettke et all praise the work of revolutionary economist Eleanor Otsrom for her research using         case studies.
+        + Boettke et all praise the work of revolutionary economist Eleanor Otsrom for her research using case studies.
     + @boettke2005:
         + Stress the role of methodological individualism in economic research.
 
@@ -67,8 +83,8 @@ In an effort to shift the mindset of the modern economist, Buchanan argues that 
     + Is it a good methodology for explaining how the economy works?
     
 6. Conclusion:
-    + Even though the theory of scarcity is crucial in the role of economics, it has been used as a         crutch to produce mediocre research methods.
-    + Economists should direct their focus more towards studying actual behavior through market             interaction instead of predetermined behavior through technical models.
+    + Even though the theory of scarcity is crucial in the role of economics, it has been used as a crutch to produce mediocre research methods.
+    + Economists should direct their focus more towards studying actual behavior through market interaction instead of predetermined behavior through technical models.
     + Changing the mindset of how economists conduct research is paramount in describing human behavior.
 
 <!--
