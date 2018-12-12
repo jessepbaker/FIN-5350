@@ -1,0 +1,41 @@
+---
+title: "Final Essay"
+author: "Jesse Baker"
+date: "December 7, 2018"
+output:
+  pdf_document: default
+  html_document: default
+bibliography: master.bib
+space: double
+abstract: In this essay I address methodoligies used in economics that oversimplify
+  the answers to questions concerning complex human behavior. I propose that economists
+  should turn their attention more towards studying the behavior of markets, and using
+  case studies, and methodological individualism to answer the underlying questions
+  of human behavior.
+---
+
+\newpage
+
+#### Introduction
+
+To non-economists, the answer to the question "what do economists do?" is a bit ambiguous. British economist Lionel Robbins famously coined the textbook definition as "Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses" @robbins. Since Robbins addressed the problem of scarcity so eloquently, economists have devoted the vast majority of their work to solving the riddle of how humanity deals with scarcity @buchanan. I do not contest that scarcity should be among the foundational theories of economics. However, attempting to solve the problem of scarcity has lead many economists to oversimplify human behavior. It is this oversimplification that has deviated economists from the essence of true economics, which is markets. It is in markets, contracts, and voluntary trade where we find true human behavior. In this paper, I will cover agent based models, case studies and experimental economics and how Monte Carlo simulations and computational methods can be used to build on these models in order to better understand the economy.
+
+#### Literature Review
+
+In an effort to shift the mindset of the modern economist, Buchanan argues that while the foundational theories of economics are necessary, they have been used to over simplify human behavior, turning economists away from solving market behavioral problems to solving technical maximization problems @buchanan. Boettke, Palagashvili, and Lemke dissect and explain the importance of the work of Elinor Ostrom, which used case studies involving individuals pertaining to the question rather than focusing on presumption of expertise in social arrangements @boettke2013.  Lionel Robbins explained the foundational relevance of scarcity in the study of economics @robbins. Indeed, Boettke and Coyne stress the importance of methodological individualism when approaching economic question @boettke2005. 
+
+#### Representative Agent Models
+
+A Representative agent model is used to segment a market, or economy into a broadly defined individual. Economists will typically assign a list of assumptions to how the agent interacts in the economy. Agent based models are commonly used to analyze macroeconomic policies such as social security, immigration, or health care. Agent based models can be useful in coming up with broad conclusions to questions that effect just about everyone. Going back to the case of social security, representative agent models are typically used to look into the saving behavior of the agents defined in the model. Saving is something that everybody has to deal with at some point in their life as they approach retirement. Agent based models have been used to help define why people struggle with saving their money, introducing the need for programs such as social security.
+
+Even though representative agent based models can be useful in looking at broad decision behavior, they are not as representative of the population as the name would suggest. Assuming that everyone in the economy would act the same, or that the sum of their decisions would be mathematically equivalent is an excessively strong assumption and impossible to satisfy by any means in the real world. Often when using representative agent models, economists will fall into the same trope that Buchanan warned about in focusing on the problem of maximization @buchanan. Agents in the model are strictly adhering to the constraints decided by the person running the analysis. Choice is being thrown out as an assumptions and the agents only respond to cold emotionless decision parameters.  
+
+Even though agent based models do not adequately represent the market, they have become more sophisticated over time. The field of computational economics has complemented agent based models by using simulations that allow increases in the variance of agents decisions. Even though the agents in compuational economics models are still just reponding to pre-determined market conditions, their behavior is not as limited.      
+
+#### Case Studies
+
+
+
+\newpage
+
+#### References
